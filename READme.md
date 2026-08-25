@@ -29,6 +29,10 @@ projects, task, task assignments and much more.
 5. Start the server
    python manage.py runserver
 
+## Live API
+Base URL: https://blog-api-sjpc.onrender.com
+API Docs: https://blog-api-sjpc.onrender.com/api/docs/
+
 ## API Endpoints
 
 ### Auth
